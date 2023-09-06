@@ -1,0 +1,9 @@
+body { background-color:lavender; }
+p.thicker {
+  font-weight: 900;
+    font-size: 32;
+    background-color: beige;
+}
+h1 { color: green;}
+h2 { color: blue;}
+h3 { color: purple;}
