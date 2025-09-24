@@ -1,0 +1,51 @@
+:: StoryTitle
+Catasaurus
+
+
+:: StoryData
+{
+  "ifid": "F14C7866-15D5-4F44-90F5-6B001E34D289",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Caturday",
+  "zoom": 1
+}
+
+
+:: Bad cat! {"position":"662.5,550","size":"100,100"}
+The cat has been bad! Give it a treat anyway and go back to your [[Caturday]] .
+
+
+:: Caturday {"position":"550,200","size":"100,100"}
+The cat is deciding what to do with its day.
+
+[[The cat decides to take a nap.]]
+[[The cat decides to chase the dog.]]
+
+
+
+
+:: The cat decides to bite you. {"position":"662.5,675","size":"100,100"}
+[[Bad cat!]] 
+
+
+:: The cat decides to chase the dog. {"position":"662.5,425","size":"100,100"}
+ [[Bad cat!]]
+
+
+:: The cat decides to eat a snack. {"position":"537.5,550","size":"100,100"}
+[[The cat goes back to sleep.]]
+[[The cat decides to vomit on the desk.]]
+
+
+:: The cat decides to take a nap. {"position":"537.5,425","size":"100,100"}
+ [[The cat decides to eat a snack.]]
+ [[The cat decides to bite you.]]
+
+
+:: The cat decides to vomit on the desk. {"position":"537.5,675","size":"100,100"}
+[[Bad cat!]] 
+
+
+:: The cat goes back to sleep. {"position":"412.5,550","size":"100,100"}
+The cat is having a calm [[Caturday]].
