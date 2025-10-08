@@ -1,0 +1,126 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>HTML and CSS: Exercise 01</title>
+	
+<style>
+/* Hello I am a comment in CSS. */
+p {}
+#para1 {
+  	text-align: center;
+  	color: green;
+    font-size: 20px;
+}
+#para2 {
+  	text-align: center;
+    color: green;
+}
+#para3 {
+  	text-align: right;
+    color: tomato;
+}
+#para4 {
+  	text-align: left;
+  	color: dimgray;
+}
+#para5 {
+  	text-align: right;
+  	color: purple;
+}
+#para6 {
+  	text-align: center;
+  	color: orange;
+    font-size: 23px
+}
+#title1 {
+  	text-align: center;
+  	color: plum;
+    font-size: 100px;
+}
+#jokebooks {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+}
+
+#jokebooks td, #jokebooks th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#jokebooks tr:nth-child(even){background-color: #f2f2f2;}
+
+#jokebooks tr:hover {background-color: #ddd;}
+
+#jokebooks th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #008B8B;
+  color: white;
+}
+</style>
+</head>
+	
+	<body>
+  <p id="title1">HTML and CSS: Exercise 01</p>
+  <h2>Directions</h2>
+  <p>This page shows an example of very basic HTML with CSS applied to it. For this exercise, you will create:<br>
+ <ol>
+  <li>New text for your main document</li>
+  <li>New p id's (6)</li>
+  <li>New CSS for these p id's</li>
+   <li>New text in your table</li>
+   <li>New CSS for your table</li>
+</ol>
+The Helpful Tools on Canvas, including <a href="https://www.w3schools.com/">W3Schools</a> and <a href="https://developer.mozilla.org/en-US/">MDN</a>, can be of assistance in knowing what the selectors, properties, and values mean. There are also tools for selecting your colors.<p>
+
+<hr>
+   <p id="title">Let's Do This!</p>
+<p id="para1">This is a green, centered paragraph with 20px text.</p>
+  <!—It ain't easy being green. -->
+<p id="para2">This is another green, centered paragraph, but with regular text.</p>
+<p id="para3">Too much center. Too much green! <br>
+  This paragraph goes right and turns into a tomato.</p>
+<p id="para4">Too much right. Too much bright! This dim gray paragraph goes left.</p>
+<p id="para5">This paragraph is on the right side and purple.</p>
+  <p>
+<p id="para6">This paragraph looks however you want.</p>
+  <h2>A Table!</h2>
+  <!—There are times when you may want to use the div instead of creating a table. Tables are the standard for tabular data, while div is used to define objects on the page and page layout. -->
+  <p id="para4">Example 1. A Very Simple Table</p>
+  <table id="jokebooks">
+  <tr>
+    <th>Title</th>
+    <th>Author</th>
+    <th>Key Idea</th>
+  </tr>
+  <tr>
+    <td>The Big Bad Wolf</td>
+    <td>A. Pig</td>
+    <td>Build your home from bricks, not straw or sticks.</td>
+    </tr>
+  <tr>
+    <td>Carrots and Cabbage</td>
+    <td>P. Cottontail</td>
+    <td>Some farmers are mean. Some rabbits are naughty.</td>
+  </tr>
+  <tr>
+    <td>So Hungry</td>
+    <td>H. Caterpillar</td>
+    <td>A lot of energy is required to become a butterfly.</td>
+  </tr>
+</table>
+  <hr>
+  <hr>
+  <hr>
+  <h2>Notes</h2>
+  <!—I could also add notes in the comments. This is pretty common. -->
+ 
+  This exercise uses an internal CSS. CSS can also exist on its own and you can reference the file. This is called an "external style sheet." We will talk about those next.
+		
+  <!—Who's awesome? You're awesome. Look at that beautiful page you made! -->
+
+</body>
+</html>
