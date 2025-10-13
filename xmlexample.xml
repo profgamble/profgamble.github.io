@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookList title="newbies">   
+<book> 
+	<title>Happiness Falls</title>
+	<author>Angie Kim</author>
+	<publisher>Hogarth</publisher>
+	<copyrightdate>2023</copyrightdate>
+	<format>hardcover</format>
+	<UID>9780593448205</UID>
+	<price>15.00</price>
+	<URL>https://www.abebooks.com/first-edition/Happiness-Falls-Novel-Angie-Kim-Hogarth/32269030357/bd</URL>
+</book>
+<book> 
+	<title>Fight Night</title>
+	<author>Miriam Toews</author> 
+	<publisher>Bloomsbury Publishing</publisher>
+	<copyrightdate>2021</copyrightdate>
+	<format>paperback</format>
+	<URI>9781635579789</URI>
+	<price>16.74</price>
+	<URL>https://bookshop.org/p/books/fight-night-miriam-toews/39b3668fe3e4fbe8</URL>
+</book>
+</bookList>
