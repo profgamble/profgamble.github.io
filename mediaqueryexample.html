@@ -1,0 +1,122 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Media Query Example</title>
+	
+<style>
+/* ================================= 
+  Media Queries
+==================================== */
+
+/* This query changes the body background based on screen width. */
+	@media screen and (min-width: 500px) {
+  body {
+    background-color: #B8DBD9;
+  }
+}
+
+/* These queries change the body background based on screen orientation. */
+
+@media only screen and (orientation: landscape) {
+  body {
+    background-color: #DAEDBD;
+  }
+}
+	
+	@media only screen and (orientation: portrait) {
+  body {
+    background-color: #FF2C55;
+  }
+}
+
+/* This query changes the font size based on screen size. */
+
+@media screen and (max-width: 500px) {
+  p {
+    font-size: 20px;
+  }
+}
+
+/* This query hides an element based on screen size. */
+@media screen and (min-width: 500px) {
+  #figure1 {
+    display: none;
+  }
+}
+
+/* This query formats how to print the page. It is best practice to leave the print media query for last. */
+
+@media print  {
+  body {
+    background: white;
+	 color: black;
+  }
+  header, aside, footer {
+    display: none;
+  }
+}
+	
+</style>	
+	
+</head>
+
+<body>
+	
+<h1>CHAPTER I</h1>
+
+<h2>IN WHICH WE ARE INTRODUCED TO WINNIE-THE-POOH AND SOME BEES, AND THE
+STORIES BEGIN</h2>
+
+	<hr>
+<figure>
+  <img id="figure1" alt="In a drawing to start chapter 1, we see Christopher Robin dragging his bear down the stairs. Christopher Robin wears a boy's checked shirt over shorts." src="https://www.gutenberg.org/cache/epub/67098/images/illus2.jpg">
+</figure>
+
+<p>Here is Edward Bear, coming downstairs now, bump, bump, bump, on the
+back of his head, behind Christopher Robin. It is, as far as he knows,
+the only way of coming downstairs, but sometimes he feels that there
+really is another way, if only he could stop bumping for a moment and
+think of it. And then he feels that perhaps there isn't. Anyhow, here he
+is at the bottom, and ready to be introduced to you. Winnie-the-Pooh.</p>
+
+<p>When I first heard his name, I said, just as you are going to say, "But
+I thought he was a boy?"</p>
+
+<p>"So did I," said Christopher Robin.</p>
+
+<p>"Then you can't call him Winnie?"</p>
+
+<p>"I don't."</p>
+
+<p>"But you said——"</p>
+
+<p>"He's Winnie-ther-Pooh. Don't you know what '<i>ther</i>' means?"</p>
+
+<p>"Ah, yes, now I do," I said quickly; and I hope you do too, because it
+is all the explanation you are going to get.</p>
+
+<p>Sometimes Winnie-the-Pooh likes a game of some sort when he comes
+downstairs, and sometimes he likes to sit quietly in front of the fire
+and listen to a story. This evening——</p>
+
+<p>"What about a story?" said Christopher Robin.</p>
+
+<p>"<i>What</i> about a story?" I said.</p>
+
+<p>"Could you very sweetly tell Winnie-the-Pooh one?"</p>
+
+<p>"I suppose I could," I said. "What sort of stories does he like?"</p>
+
+<p>"About himself. Because he's <i>that</i> sort of Bear."</p>
+
+<p>"Oh, I see."</p>
+
+<p>"So could you very sweetly?"</p>
+
+<p>"I'll try," I said.</p>
+
+<p>So I tried.</p>	
+	
+</body>
+</html>
