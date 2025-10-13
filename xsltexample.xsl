@@ -5,7 +5,7 @@
 <body>
   <h2>New Books</h2>
   <table border="1">
-    <tr bgcolor="#9acd32">
+    <tr bgcolor="#F497DA">
       <th style="text-align:left">Title</th>
       <th style="text-align:left">Author</th>
 		<th style="text-align:left">Publisher</th>
