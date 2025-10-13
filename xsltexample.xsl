@@ -15,7 +15,7 @@
 		<th style="text-align:left">Price</th>
       	<th style="text-align:left">Original Record</th>
     </tr>
-    <xsl:for-each select="xmlexample">
+    <xsl:for-each select="https://profgamble.github.io/xmlexample.xml">
     <tr>
         <td><xsl:value-of select="bookList/book/title"/></td>
 		<td><xsl:value-of select="bookList/book/author"/></td>
@@ -30,5 +30,3 @@
   </table>
 </body>
 </html>
-</xsl:template>
-</xsl:stylesheet>
