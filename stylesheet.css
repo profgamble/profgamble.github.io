@@ -1,9 +1,9 @@
 bookList {
-     font-color: black;
      display: block;
 }
  author, publisher, copyrightdate, format, UID, price, URL {
      display: block;
+     font-color: black;
 }
 
  title {
@@ -16,6 +16,7 @@ bookList {
      padding: 0.5em; 
      display: block;
 }
+
 
 
 
