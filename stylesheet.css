@@ -1,6 +1,6 @@
 bookList {
      font-color: white;
-     background-color : ;
+     background-color: #254E70;
 }
 author, publisher, copyrightdate, format, UID, price, URL {
      display : block;
@@ -16,6 +16,7 @@ author, publisher, copyrightdate, format, UID, price, URL {
      padding:0.5em; 
      display: block;
 }
+
 
 
 
