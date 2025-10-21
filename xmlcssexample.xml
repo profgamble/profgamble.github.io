@@ -9,7 +9,7 @@
 	<format>hardcover</format>
 	<UID>9780593448205</UID>
 	<price>15.00</price>
-	<URL>https://www.abebooks.com/first-edition/Happiness-Falls-Novel-Angie-Kim-Hogarth/32269030357/bd</URL>
+	<URL xlink:type="simple" xlink:href="https://www.abebooks.com/first-edition/Happiness-Falls-Novel-Angie-Kim-Hogarth/32269030357/bd">Abe Books</URL>
 </book>
 <book> 
 	<title>Fight Night</title>
@@ -19,6 +19,6 @@
 	<format>paperback</format>
 	<URI>9781635579789</URI>
 	<price>16.74</price>
-	<URL>https://bookshop.org/p/books/fight-night-miriam-toews/39b3668fe3e4fbe8</URL>
+	<URL xlink:type="simple" xlink:href="https://bookshop.org/p/books/fight-night-miriam-toews/39b3668fe3e4fbe8">Bookshop.org</URL>
 </book>
 </bookList>
