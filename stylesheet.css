@@ -3,7 +3,8 @@ bookList {
 }
  author, publisher, copyrightdate, format, UID, price, URL {
      display: block;
-     font-color: black;
+     margin: 0.5em; 
+     padding: 0.5em; 
 }
 
  title {
@@ -16,6 +17,7 @@ bookList {
      padding: 0.5em; 
      display: block;
 }
+
 
 
 
