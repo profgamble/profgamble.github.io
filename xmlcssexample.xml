@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <?xml-stylesheet type="text/css" href="https://profgamble.github.io/stylesheet.css"?>
-<bookList xmlns:xlink="http://www.w3.org/1999/xlink">   
+<bookList>   
 <book> 
 	<title>Happiness Falls</title>
 	<author>Angie Kim</author>
@@ -9,7 +9,7 @@
 	<format>hardcover</format>
 	<UID>9780593448205</UID>
 	<price>15.00</price>
-	<URL xlink:type="simple" xlink:href="https://www.abebooks.com/first-edition/Happiness-Falls-Novel-Angie-Kim-Hogarth/32269030357/bd" xlink:show="new">Abe Books</URL>
+	<URL>Abe Books</URL>
 </book>
 <book> 
 	<title>Fight Night</title>
@@ -19,6 +19,6 @@
 	<format>paperback</format>
 	<URI>9781635579789</URI>
 	<price>16.74</price>
-	<URL xlink:type="simple" xlink:href="https://bookshop.org/p/books/fight-night-miriam-toews/39b3668fe3e4fbe8" xlink:show="new">Bookshop.org</URL>
+	<URL>Bookshop.org</URL>
 </book>
 </bookList>
