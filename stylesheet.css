@@ -1,22 +1,22 @@
 bookList {
      width: 100%;
-     font-color: #AEF3E7: 
+     color: #AEF3E7: 
 }
  author, publisher, copyrightdate, format, UID, price, URL {
      display: block;
      margin: 0.5em; 
-     font-color: #AEF3E7: 
+     color: #AEF3E7: 
 }
 
  title {
      background-color: #254E70;
      font-size: 20px;
      font-weight: bold;
-     border: 1px #8EE3EF;
      margin: 0.5em; 
      padding: 0.5em; 
      display: block;
 }
+
 
 
 
