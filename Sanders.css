@@ -1,0 +1,39 @@
+library {
+     width: 100%;
+	display: table;
+	background-color: cornflowerblue;
+	margin: 0.5em; 
+    padding: 0.5em;
+}
+
+author {
+	font-color: #800020;
+	font-size: 40px;
+	font: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+
+ title {
+     font-color: #AEF3E7;
+     font-size: 40px;
+     font-weight: bold;
+}
+
+series {
+	font-color: #800020;
+	font-size: 20px;
+}
+
+publisher, ISBN13, format, price, url {
+	font: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	
+}
+
+
+
+
+
+
+
+
+
+
