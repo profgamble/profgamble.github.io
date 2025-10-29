@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library id="Milo Sanders's library">
+	<book>
+		<title>Children of Blood and Bone</title>
+		<author>
+			<firstname>Tomi</firstname>
+			<lastname>Adayemi</lastname>
+		</author>
+		<publisher>Henry Holt</publisher>
+		<copyright>2018</copyright>
+		<format>hardcover</format>
+		<ISBN13>978-1-4328-6409-5</ISBN13>
+		<price>24.99USD</price>
+		<url>https://www.booksinprint.com/TitleDetail/DetailedView?hreciid=|57800721|66636176</url>
+	</book>
+	<book>
+		<title>The Absolutely True Diary of a Part-Time Indian</title>
+		<author>
+			<firstname>Sherman</firstname>
+			<lastname>Alexie</lastname>
+		</author>
+		<publisher>Little, Brown Books</publisher>
+		<copyright>2009</copyright>
+		<format>softcover</format>
+		<ISBN13>978-0-316-01369-7</ISBN13>
+		<price>17.99USD</price>
+		<url>https://www.booksinprint.com/TitleDetail/DetailedView?hreciid=|82319734|12582147</url>
+	</book>
+	<book>
+		<title>Amari and the Night Brothers</title>
+		<series>Supernatural Investigations Series</series>
+		<author>
+			<firstname>B.B.</firstname>
+			<lastname>Alston</lastname>
+		</author>
+		<publisher>Thorndike Press</publisher>
+		<copyright>2021</copyright>
+		<format>hardcover</format>
+		<ISBN13>978-1-4328-9073-5</ISBN13>
+		<price>22.99USD</price>
+		<url>https://www.booksinprint.com/TitleDetail/DetailedView?hreciid=|70108374|80352281</url>
+	</book>
+	<book>
+		<title>Pride and Prejudice</title>
+		<author>
+			<firstname>Jane</firstname>
+			<lastname>Austen</lastname>
+		</author>
+		<publisher>Puffin Classics</publisher>
+		<copyright>1995</copyright>
+		<format>softcover</format>
+		<ISBN13>978-0140373370</ISBN13>
+		<price>10.15USD</price>
+		<url>https://www.amazon.com/Pride-Prejudice-Puffin-Classics-Austen/dp/0140373373</url>
+	</book>
+	<book>
+		<title>Six of Crows</title>
+		<series>Grishaverse</series>
+		<author>
+			<firstname>Leigh</firstname>
+			<lastname>Bardugo</lastname>
+		</author>
+		<publisher>Henry Holt</publisher>
+		<copyright>2015</copyright>
+		<format>softcover</format>
+		<ISBN13>978-1-62779-509-8</ISBN13>
+		<price>not listed</price>
+		<url>https://www.booksinprint.com/TitleDetail/DetailedView?hreciid=|50392534|51813774</url>
+	</book>
+</library>
